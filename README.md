@@ -4,7 +4,8 @@ Power BI dashboard analyzing Maven Marketing Challenge data to uncover campaign 
 
 This repository contains a **Power BI dashboard** created for the [Maven Analytics Marketing Challenge](https://www.mavenanalytics.io/blog/maven-marketing-challenge). The challenge involved analyzing a dataset of **2,240 customers** from various marketing campaigns to identify key insights, improve campaign effectiveness, and propose actionable strategies.
 
----
+---<img width="1529" height="951" alt="Marketing Analytics dashboard S2" src="https://github.com/user-attachments/assets/f8dbd471-f1f0-468d-b419-e9acf1abe2e6" />
+
 
 ## 📊 Project Overview
 
